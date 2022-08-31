@@ -3,4 +3,4 @@
 
 ## How to clone the node
 ---
-``` npm install "NodeName"
+``` npm install "NodeName" ```
